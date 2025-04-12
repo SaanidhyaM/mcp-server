@@ -19,7 +19,7 @@ def clone_voice(text, voice_id, api_key, output_path="tests\\output_audio.mp3"):
 
 
 # Example usage
-api_key = "sk_cf7c9625d24a03a8480d71614c0984b02f4bb4e94aa61747"
-voice_id = "JYesEroFZfIV2tXHwRem"
+api_key = "api-key"
+voice_id = "voice-id"
 text = "Hello, this is a cloned voice."
 clone_voice(text, voice_id, api_key)
