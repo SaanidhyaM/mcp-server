@@ -1,0 +1,27 @@
+2025-04-12 15:50:27,997 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-12 15:50:27,997 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-12 15:50:27,998 [INFO]  * Restarting with stat
+2025-04-12 15:50:28,679 [WARNING]  * Debugger is active!
+2025-04-12 15:50:28,682 [INFO]  * Debugger PIN: 129-953-578
+2025-04-12 15:54:49,427 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-12 15:54:49,428 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-12 15:54:49,428 [INFO]  * Restarting with stat
+2025-04-12 15:54:52,191 [WARNING]  * Debugger is active!
+2025-04-12 15:54:52,194 [INFO]  * Debugger PIN: 304-449-498
+2025-04-12 15:55:50,998 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-12 15:55:50,998 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-12 15:57:20,658 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-12 15:57:20,658 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-12 15:57:23,199 [INFO] 127.0.0.1 - - [12/Apr/2025 15:57:23] "[31m[1mGET /clone HTTP/1.1[0m" 405 -
+2025-04-12 15:57:23,249 [INFO] 127.0.0.1 - - [12/Apr/2025 15:57:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-12 16:00:19,080 [INFO] 127.0.0.1 - - [12/Apr/2025 16:00:19] "POST /clone HTTP/1.1" 200 -
+2025-04-12 16:00:49,777 [INFO] 127.0.0.1 - - [12/Apr/2025 16:00:49] "POST /clone HTTP/1.1" 200 -
+2025-04-12 16:03:47,192 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-12 16:03:47,193 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-12 16:04:48,855 [INFO] 127.0.0.1 - - [12/Apr/2025 16:04:48] "POST /clone HTTP/1.1" 200 -
+2025-04-12 16:05:14,181 [INFO] 127.0.0.1 - - [12/Apr/2025 16:05:14] "POST /clone HTTP/1.1" 200 -
